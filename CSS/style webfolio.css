@@ -1,0 +1,119 @@
+body{
+    font-size: 16px;
+    font-family: verdana, arial, times;
+    text-align: justify;
+    margin: 0px ;
+    margin-right: 2px;
+    background: #f8f8f8;
+}
+.border{
+  border-left: 5px  solid  #3dbd99 ;
+}
+h1{
+    text-align: center ;
+    color:white;
+    text-align: center;
+    border: 30px solid #3dbd99;
+    background : #3dbd99;
+    margin: 0px;
+}
+p{
+    text-align: justify;
+}
+.aula{
+    color: #195a48;
+}
+#id1{
+  background-color: #585858;
+  text-align: center;
+  border-left: 5px  solid  #585858 ;
+
+}
+
+#menu,
+#menu ul,
+#menu ul li,
+#menu ul ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#menu ul {
+  position: relative;
+  z-index: 597;
+  float: left;
+}
+#menu ul li {
+  float: left;
+  min-height: 10x;
+  line-height: 1em;
+  vertical-align: middle;
+}
+#menu ul li.hover,
+#menu ul li:hover {
+  position:relative;
+  z-index: 600;
+  cursor: default;
+}
+#menu ul ul {
+  margin-top: 3px;
+  visibility: hidden;
+  position: absolute;
+  top: 1px;
+  left: 99%;
+  z-index: 598;
+  width: 100%;
+}
+#menu ul ul li {
+  float: none;
+}
+#menu ul ul ul {
+  top: 10px;
+  left: 99%;
+}
+#menu ul li:hover > ul {
+  visibility: visible;
+}
+#menu ul li {
+  float: none;
+}
+#menu ul ul li {
+  font-weight: normal;
+}
+/* modificações de estilo */
+#menu {
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+  width: 1302px;
+}
+#menu ul a,
+#menu ul a:link,
+#menu ul a:visited {
+  display: block;
+  color: #848889;
+  text-decoration: none;
+  font-weight: 350;
+}
+#menu > ul {
+  float: none;
+}
+#menu ul {
+  background: #fff;
+}
+#menu > ul > li {
+  border-left: 3px solid #d7d8da;
+}
+#menu > ul > li > a {
+  padding: 10px 20px;
+}
+#menu > ul > li:hover {
+  border-left: 30px solid #3dbd99;
+}
+#menu ul li:hover > a {
+  color: #3dbd99;
+}
+#menu > ul > li:hover {
+  background: #f6f6f6;
+}
+
