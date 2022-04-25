@@ -1,9 +1,18 @@
+*{
+  min-width: 320px;
+  max-width: 1920px;
+  min-height: 568px;
+  max-height: 1080px;
+  margin: auto;
+}
+
 body{
     font-family: verdana , arial , times;
     font-size: 16px;
     margin: 0px ;
-    background: #f8f8f8;;
+    background: #f8f8f8;
 }
+
 .border{
     border-left: 5px  solid  #3dbd99 ;
 }
@@ -15,6 +24,7 @@ h1{
     background : #3dbd99;
     margin: 0px;
 }
+
 #id1{
   background-color: #585858;
   text-align: center;

@@ -1,3 +1,11 @@
+*{
+  min-width: 320px;
+  max-width: 1920px;
+  min-height: 568px;
+  max-height: 1080px;
+  margin: auto;
+}
+
 body{
     font-size: 16px;
     font-family: verdana, arial, times;
@@ -17,7 +25,7 @@ p{
 }
 img{
   margin: 10px ;
-  border-radius: 50px;
+  border-radius: 200px;
 }
 .foto{
   text-align: center;
