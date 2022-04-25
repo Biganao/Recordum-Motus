@@ -7,9 +7,9 @@ body{
 
 .responsivo{
   min-width: 320px;
-  max-width: 1920px;
+  max-width: 2560x;
   min-height: 568px;
-  max-height: 1080px;
+  max-height: 1440x;
   margin-bottom: 0px;
 }
 
