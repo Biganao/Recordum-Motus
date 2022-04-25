@@ -11,6 +11,7 @@ body{
   min-height: 568px;
   max-height: auto;
   margin: auto;
+  margin-bottom: 0px;
 }
 
 .border{
