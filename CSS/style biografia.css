@@ -23,7 +23,7 @@ p{
 img{
   margin: 10px ;
   border-radius: 200px;
-  min-width: auto;
+  min-width: 10%;
 }
 .foto{
   text-align: center;
