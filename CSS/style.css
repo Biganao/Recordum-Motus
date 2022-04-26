@@ -75,8 +75,7 @@ h1{
 }
 #menu ul li {
   float: left;
-  
-  line-height: 4em;
+  line-height: 50vh;
   vertical-align: middle;
 }
 #menu ul li.hover,
