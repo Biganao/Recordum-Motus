@@ -8,6 +8,19 @@ body{
     justify-content: space-evenly;
 }
 
+.img-wrapper{
+    display: inline-flex;
+}
+.foto2{
+    margin-left: 450px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.foto3{
+    margin-left: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
 .responsivo{
     min-width: 320px;
     max-width: 2560x;
