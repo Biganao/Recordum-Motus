@@ -16,7 +16,7 @@ body{
     margin-left: 300px;
     margin-right: 25px;
     margin-bottom: 50px;
-    font-size: 12pt;
+    font-size: 14pt;
     text-align: center;
 }
 .foto3{
@@ -24,7 +24,7 @@ body{
     margin-left: 0px;
     margin-right: 100px;
     margin-bottom: 50px;
-    font-size: 12pt;
+    font-size: 14pt;
     text-align: center;
 }
 .responsivo{
@@ -54,6 +54,15 @@ p{
 
 img{
     border-radius: 200px;
+    min-width: 10%;
+    margin: 10px ;
+}
+
+.img-wrapper img{
+    border-radius: 200px;
+    width: 140px;
+    height: 140px;
+    height: 180px;
     min-width: 10%;
     margin: 10px ;
 }
