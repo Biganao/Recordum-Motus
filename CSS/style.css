@@ -12,13 +12,19 @@ body{
     display: inline-flex;
 }
 .foto2{
-    margin-left: 450px;
+    
+    margin-left: 300px;
+    margin-right: 25px;
     margin-bottom: 50px;
+    font-size: 12pt;
     text-align: center;
 }
 .foto3{
-    margin-left: 100px;
+
+    margin-left: 0px;
+    margin-right: 100px;
     margin-bottom: 50px;
+    font-size: 12pt;
     text-align: center;
 }
 .responsivo{
