@@ -25,10 +25,12 @@ p{
 
 .registro{
     color: #195a48;
+    margin-left: 10px;
 }
 
 .aula{
     color: #195a48;
+    margin-left: 10px;
 }
 
 img{
@@ -57,9 +59,8 @@ h1{
     background-color: #585858;
     text-align: center;
     border-left: 5px  solid  #585858 ;
-  
-  bottom:0px;
-  margin: 0px;
+    bottom:0px;
+    margin: 0px;
 }
 
 /* layout do menu */
