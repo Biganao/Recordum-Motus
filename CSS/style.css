@@ -12,7 +12,6 @@ body{
     display: inline-flex;
 }
 .foto2{
-    
     margin-left: 300px;
     margin-right: 25px;
     margin-bottom: 50px;
@@ -20,7 +19,6 @@ body{
     text-align: center;
 }
 .foto3{
-
     margin-left: 0px;
     margin-right: 100px;
     margin-bottom: 50px;
@@ -29,9 +27,9 @@ body{
 }
 .responsivo{
     min-width: 320px;
-    max-width: 2560x;
+    max-width: 2560px;
     min-height: 568px;
-    max-height: 1440x;
+    max-height: 1440px;
     margin-bottom: 0px;
 }
 
