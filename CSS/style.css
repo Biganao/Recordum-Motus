@@ -27,9 +27,7 @@ body{
 }
 .responsivo{
     min-width: 320px;
-
     min-height: 568px;
-
     margin-bottom: 0px;
 }
 
@@ -84,11 +82,22 @@ h1{
 #id1{
     background-color: #585858;
     text-align: center;
-    border-left: 5px  solid  #585858 ;
-    bottom:0px;
+    border-left: 10px  solid  #585858 ;
+    bottom: 0px;
     margin: 0px;
     line-height: 3vh;
     font-style: italic;
+}
+
+#id2{
+    background-color: #585858;
+    text-align: center;
+    border-left: 10px  solid  #585858 ;
+    bottom: 0px;
+    margin: 0px;
+    line-height: 3vh;
+    font-style: italic;
+    font-size: 15pt;
 }
 
 /* layout do menu */
