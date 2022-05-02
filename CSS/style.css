@@ -27,9 +27,9 @@ body{
 }
 .responsivo{
     min-width: 320px;
-    max-width: 2560px;
+
     min-height: 568px;
-    max-height: 1440px;
+
     margin-bottom: 0px;
 }
 
