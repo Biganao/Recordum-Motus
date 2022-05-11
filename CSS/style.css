@@ -25,8 +25,14 @@ body{
     position: relative;
     display:inline-block;
   }
+
+  .dropdown:hover{
+    border-left: 30px solid #3dbd99;
+}
   
   .dropdown-content {
+    left: 30px;
+    border-left: 30px solid #3dbd99;
     width: 80vh;
     height: 30vh;
     display: none;
@@ -40,6 +46,8 @@ body{
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+
 
   /*teste*/
 
